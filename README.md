@@ -10,10 +10,6 @@ Classification
 
 Target column: Loan_Status
 
-1 → Loan Approved
-
-0 → Loan Rejected
-
 Models Used
 
 Logistic Regression
@@ -35,31 +31,6 @@ FastAPI
 Streamlit
 
 Pickle
-
-Features Used
-
-Gender
-
-Married
-
-Dependents
-
-Education
-
-Self Employed
-
-Applicant Income
-
-Coapplicant Income
-
-Loan Amount
-
-Loan Amount Term
-
-Credit History
-
-Property Area
-
 
 Output
 
